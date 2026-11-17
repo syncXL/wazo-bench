@@ -1,0 +1,5 @@
+- SBPN:
+- WHISPER: added
+- MMS: added
+- OmniASR: in view
+- eko-stt-v1: will use whisper but with different repo id
